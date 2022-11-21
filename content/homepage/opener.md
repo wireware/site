@@ -1,7 +1,9 @@
 ---
-title: "Software or hardware? Both."
+title: "Intro"
 weight: 1
 ---
+
+## Software or hardware? Both.
 
 ![Integration](images/soft-hard.jpg)
 
