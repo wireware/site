@@ -26,4 +26,4 @@ Orchestrate hardware and software to construct a working system
 
 #### Debugging
 
-Analyze exisiting systems from outside contributors and improve
+Analyze existing systems from outside contributors and improve
